@@ -1,0 +1,56 @@
+Here are some core interview questions on Reltio that you should be prepared to answer to demonstrate your expertise:
+
+### General Knowledge
+1. **What is Reltio, and what are its key features?**
+2. **How does Reltio differ from other Master Data Management (MDM) solutions?**
+
+### Data Integration and Onboarding
+3. **Describe the process of data integration in Reltio.**
+4. **How do you handle data mapping and transformation in Reltio?**
+5. **What are the common challenges you face during data onboarding, and how do you address them?**
+
+### Data Quality Management
+6. **What are data quality rules, and how are they implemented in Reltio?**
+7. **How do you perform data cleansing in Reltio?**
+8. **What tools or features does Reltio offer for monitoring data quality?**
+
+### Master Data Management (MDM)
+9. **How do you manage master data entities in Reltio?**
+10. **Explain the importance of hierarchies and relationships in MDM and how you manage them in Reltio.**
+11. **How do you ensure master data consistency across an organization?**
+
+### Configuration and Customization
+12. **How do you configure workflows in Reltio?**
+13. **What customization options are available in Reltio for user interfaces and dashboards?**
+14. **Describe your experience with developing custom scripts and APIs for Reltio.**
+
+### Data Governance
+15. **What data governance policies and procedures have you implemented using Reltio?**
+16. **How do you manage data stewardship and resolve data conflicts in Reltio?**
+17. **What are the key data governance features in Reltio that support compliance and data standards?**
+
+### Monitoring and Maintenance
+18. **How do you monitor the performance and health of the Reltio platform?**
+19. **What regular maintenance tasks do you perform to keep Reltio running smoothly?**
+20. **Describe a situation where you had to troubleshoot and resolve a technical issue in Reltio.**
+
+### User Support and Training
+21. **How do you support end-users and stakeholders with Reltio-related queries and issues?**
+22. **What training methods do you use to educate users on Reltio functionalities?**
+23. **How do you create and maintain user documentation and training materials for Reltio?**
+
+### Continuous Improvement
+24. **How do you stay updated with the latest features and best practices in Reltio?**
+25. **Can you provide examples of process improvements or optimizations you have implemented in Reltio?**
+
+### Practical Scenarios
+26. **Describe a complex data integration project you have worked on with Reltio and how you managed it.**
+27. **How do you handle data deduplication and ensure data accuracy in Reltio?**
+28. **What steps do you take to implement a new data governance policy in Reltio?**
+
+### Technical Knowledge
+29. **Explain the architecture of the Reltio platform.**
+30. **How do you use Reltio APIs for data integration and automation?**
+31. **What are the best practices for data modeling in Reltio?**
+
+Being prepared to answer these questions will help you demonstrate your expertise and knowledge of Reltio during an interview.
